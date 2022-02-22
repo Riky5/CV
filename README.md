@@ -1,16 +1,16 @@
 # **Riky Moroni**  
-#### _Aspiring full stack developer_  
+#### _Junior full stack developer_  
 
-A very determined self-taught developer, embarking on a new journey with Makers Academy.  
+A very determined self-taught web developer, just graduated from Makers Academy.  
 
 After graduating from Italy, I left the country and spent the next ten years working and travelling around the world. While visiting New Zealand, I met a developer for the first time and was fascinated by his work. I always had a passion for tech, but travelling was a priority back then.  
 
-After I settled down in London, I tried changing my career a few times with no success. I have to admit the pandemic pushed me in the right direction. I had to quit my comfortable job in catering and start thinking about the future. In February 2021, I got hired as a Store Assistant by a startup company and quickly got promoted to Store Supervisor with a salary never seen before in my career. But it was right then I realised that I didn't want just any job with a good salary.  
+After I settled down in London, I tried changing my career a few times with no success. I have to admit the pandemic pushed me in the right direction. I had to quit my comfortable job in catering and start thinking about the future. In February 2021, I got hired as a Store Assistant by a startup company and quickly got promoted to Store Supervisor with a salary never seen before in my career. But it was right then I realised that I didn't want just a job. I finally wanted my dream job. 
 
-I's finally time to follow my passion for tech.  
+It's finally time to follow my passion for tech.  
 
 ---
-### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/rikymoroni/ "linkedin") * [Codewars](https://www.codewars.com/users/Riky5 "codewars")
+### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/rikymoroni/ "linkedin")
 ---
 
 ## **Projects**
@@ -51,11 +51,19 @@ In 5 months with Getir I got promoted from Store Assistant to Team Leader to Sup
 
 ## **Education**
 
-**MAKERS ACADEMY (London, Oct 21 - present)**  
+**MAKERS ACADEMY (London, Oct 21 - Feb 22)**  
 _16 week Software Development Bootcamp_
+- pair-programmed daily in order to solve weekly challenges.
+- test-drived constantly in order to improve code quality. (Rspec, Jest)
+- followed effective debugging processes.
+- learnt to use other frameworks such as Rails.
+- reviewed someone's else code weekly and gave feedback.
+- utilised MVC pattern, databases, HTTP requests, APIs.
+- worked on 3 engineering projects, requiring teamwork, research, planning and communication.
 
 **FREECODECAMP, CODECADEMY AND UDEMY (London, 2020-2021)**  
-_Various coding courses: Ruby, HTML5, CSS3, JS, Flutter and Dart._
+_Various coding courses: Ruby, HTML5, CSS3, JS, React, Flutter and Dart._
+- learnt the basics of each language/framework.
 
 **LORENZO LOTTO INSTITUTE (Italy, 1999 - 2004)**  
 _Diploma in Tourism. 3 A-levels equivalent.  
@@ -65,7 +73,7 @@ Included: English, French, Math, ICT, Economics, Business Relations._
 
 **GENSPEC Ltd (London, 2021)**  
 _Full Stack Mobile App Development - volunteering_  
-Back-end: Express, Typescript and Firebase.  
+Back-end: Node.js, Express, Typescript and Firebase.  
 Tests: Postman and Jest.
 
 **GETIR (London, Feb 2021 - Jun 2021)**  
