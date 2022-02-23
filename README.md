@@ -18,10 +18,10 @@ It's finally time to follow my passion for tech.
 |Project name   |Description              |Technologies        |
 |---------------|-------------------------|--------------------|
 |[<img src="https://github.com/Riky5/wormz/blob/readme/public/images/WormsLogoText.png?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="120" height="30" /> Wormz](https://github.com/Riky5/wormz)|Final project at Makers: a 2D web game based on the existing Worms game. Also deployed on heroku.|JavaScript, P5, Matter.js, Node.js, Express, HTML5, CSS3, Mocha, Chai
-|[<img src="https://github.com/Riky5/acebook-ruby-junkies/blob/main/app/assets/images/RubyJunkiesLogo.png?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="40" /> GemJunkies](https://github.com/Riky5/acebook-ruby-junkies)|Engineering project II - Facebook clone with our own bubblegum design.|Ruby, Rails, JavaScript, HTML5, SCSS, Bulma, PostgreSQL, Rspec
-|[Chitter Challenge](https://github.com/Riky5/chitter-challenge)|Twitter clone. Login and Sign up design as close as possible to the original twitter.|Ruby, HTML5, CSS3, PostgreSQL, Sinatra, Rspec
+|[<img src="https://github.com/Riky5/acebook-ruby-junkies/blob/main/app/assets/images/RubyJunkiesLogo.png?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="40" /> GemJunkies](https://github.com/Riky5/acebook-ruby-junkies)|Engineering project II - Facebook clone with our own bubblegum design. Deployed on heroku.|Ruby, Rails, JavaScript, HTML5, SCSS, Bulma, PostgreSQL, Rspec
+|[Chitter Challenge](https://github.com/Riky5/chitter-challenge)|Twitter clone. Login and Sign up designs are as close as possible to the original Twitter.|Ruby, HTML5, CSS3, PostgreSQL, Sinatra, Rspec
 |InCanterbury (private)|Work in progress. Mobile app for businesses in Canterbury. Only the back-end is completed right now.|Node JS, TypeScript, Express, Firebase, NPM, Jest|
-|My GOTC Accounts|A simple mobile app where you can add and edit accounts owned in GOTC mobile game.|Flutter, Dart, Firebase|
+|[My GOTC Accounts](https://github.com/Riky5/my-gotc-accounts-mobile-app)|A simple mobile app where you can add and edit accounts owned in GOTC mobile game.|Flutter, Dart, Firebase|
 |[Travel Advice Form page](https://codepen.io/riky5/full/gOwPMxj "CodePen"), [Technical Doc page](https://codepen.io/riky5/full/abmEYzP "CodePen")|Some simple web pages built on Codepen while practicing web designing.|HTML5, CSS3|
 
 Ordered chronologically from latest project.
