@@ -13,6 +13,8 @@ In August 2021, I was offered the chance to volunteer for GenSpec for a side pro
 
 From November 2021 to February 2022, I attended Makers Academy, where I consolidated my knowledge of Ruby and JavaScript, learnt new frameworks, solidified best practices and processes used in Software Development, helped my teams succeed, and provided mentorship to some fellow students.
 
+I would like to work for a company where I can continue to learn, grow and make an impact.
+
 ---
 ### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests)
 ---
