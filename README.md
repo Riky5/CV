@@ -2,15 +2,19 @@
 <a href='https://www.linkedin.com/in/rikymoroni/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'/></a> <a href='mailto:riky.moroni5@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail logo'/></a>
 ### _Junior full stack developer_  
 
-A very determined self-taught web developer just graduated from Makers Academy.  
+A very determined Junior Developer just graduated from Makers Academy who enjoys learning constantly, attending workshops, and improving her programming skills. 
 
-After graduating from Italy, I left the country and spent the next ten years working and travelling around the world. While visiting New Zealand, I met a developer for the first time and was fascinated by his work. I always had a passion for tech, but travelling was a priority back then.  
+I have always had a passion for Tech, but I never knew what path was right for me.
+After travelling for over ten years around the world, I decided to settle down in London, start thinking about changing my career, and work towards this new goal.
 
-After settling down in London, I tried changing my career a few times with no success. I have to admit the pandemic pushed me in the right direction. I had to quit my comfortable job in catering and start thinking about the future. In February 2021, I was hired as a Store Assistant by a startup company, quickly promoted to Store Supervisor, and on the path to becoming Store Manager. At that moment, I realised I didn't want just any job.   
-It was finally time to follow my passion for tech.  
+I started teaching myself how to code, following some free courses, completing katas, joining coding communities, and watching many tutorials on youtube.
+
+In August 2021, I was offered the chance to volunteer for GenSpec for a side project. That was my first experience working in an agile dev team.
+
+From November 2021 to February 2022, I attended Makers Academy, where I consolidated my knowledge of Ruby and JavaScript, learnt new frameworks, solidified best practices and processes used in Software Development, helped my teams succeed, and provided mentorship to some fellow students.
 
 ---
-### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/rikymoroni/ "linkedin")
+### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests)
 ---
 
 ## **Projects** 
