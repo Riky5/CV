@@ -74,9 +74,9 @@ _Diploma in Tourism. 3 A-levels equivalent._
 
 **GENSPEC Ltd (London, 2021)**  
 _Full Stack Mobile App Development - volunteering_  
-- Back-end: Node.js, Express, Typescript and Firebase. _Wrote effective APIs_
-- Tests: Postman and Jest. _Wrote unit tests to ensure responsiveness and efficiency_
-- Front-end: Dart/Flutter. _Learnt a new framework_
+- Wrote effective APIs. (_Node.js, Express, Typescript and Firebase_)
+- Tested APIs to ensure responsiveness and efficiency. (_Jest and Postman_)
+- Learnt a new framework. (_Dart/Flutter_)
 - Attended weekly meetings.
 
 **GETIR (London, Feb 2021 - Jun 2021)**  
