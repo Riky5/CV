@@ -1,6 +1,5 @@
 # **Riky Moroni**  
 <a href='https://www.linkedin.com/in/rikymoroni/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'/></a> <a href='mailto:riky.moroni5@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail logo'/></a>
-### _Junior full stack developer_  
 
 A very determined Junior Developer just graduated from Makers Academy who enjoys learning constantly, attending workshops, and improving her programming skills. 
 
@@ -33,9 +32,6 @@ I would like to work for a company where I can continue to learn and contribute 
 Ordered chronologically from latest project.
 
 ## **Skills**
-
-_Tech skills: HTML, CSS, Bootstrap, Bulma, JavaScript, Ruby, Rails, React, Flutter, TypeScript, Node.js, express, postgreSQL_
-
 ### **Fast learning**  
 Since I was studying in Italy up to now, I have changed so many jobs.  
 My first job in London was behind the bar, and I had to learn everything in two weeks. I had no prior experience preparing drinks, but I managed.  
@@ -64,7 +60,7 @@ _16 week Software Development Bootcamp_
 - learnt to use other frameworks such as Rails.
 - reviewed someone's else code weekly and gave feedback.
 - utilised MVC pattern, databases, HTTP requests, APIs.
-- worked on 3 engineering projects, requiring teamwork, research, planning and communication.
+- worked on 3 engineering group projects, requiring teamwork, research, planning and communication.
 
 **FREECODECAMP, CODECADEMY AND UDEMY (London, 2020-2021)**  
 _Various coding courses: Ruby, HTML5, CSS3, JS, React, Flutter and Dart._
@@ -78,15 +74,26 @@ _Diploma in Tourism. 3 A-levels equivalent._
 
 **GENSPEC Ltd (London, 2021)**  
 _Full Stack Mobile App Development - volunteering_  
-- Back-end: Node.js, Express, Typescript and Firebase.  
-- Tests: Postman and Jest.
+- Back-end: Node.js, Express, Typescript and Firebase. _Wrote effective APIs_
+- Tests: Postman and Jest. _Wrote unit tests to ensure responsiveness and efficiency_
+- Front-end: Dart/Flutter. _Learnt a new framework_
+- Attended weekly meetings.
 
 **GETIR (London, Feb 2021 - Jun 2021)**  
 _Store Team Leader_  
+- Managed the day-to-day running of the dark store, meeting health & safety standards, managing stock deliveries, staff schedules, and more.
+- Ensured all store operational goals, policies and procedures were met and maintained. Constantly ranked "top store performance" since opening.
+- Maintained high levels of customer satisfaction: 4.3/5 feedback rating.
+
+_Technologies used: Google Sheets, Slack, Zoom._
 
 **COMPASS Group/HCA UK (London, Dec 2015 - Aug 2020)**  
 _Catering Supervisor_
+- Analysed catering bookings and liaised with staff to set up equipment and supplies to meet client expectations.
+- Communicated with managers of other departments and suppliers to review catering goals, schedule events and carry out catering needs as contracted.
+- Cut spending through effective inventory management and supply sourcing.
 
+_Technologies used: MS Excel, Windows, internal software._
 ## **Interests**  
 * World Travelling: visited 54 countries so far, and lived in 8.
 * Documentaries and videos on youtube.
