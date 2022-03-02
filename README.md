@@ -55,7 +55,7 @@ I have trained many colleagues in previous roles or explained how things work to
 **MAKERS ACADEMY (London, Oct 21 - Feb 22)**  
 _16 week Software Development Bootcamp_
 - pair-programmed daily in order to solve weekly challenges.
-- test-drived constantly in order to improve code quality. (Rspec, Jest)
+- TDD constantly in order to improve code quality. (Rspec, Jest)
 - followed effective debugging processes.
 - learnt to use other frameworks such as Rails.
 - reviewed someone's else code weekly and gave feedback.
