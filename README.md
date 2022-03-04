@@ -32,19 +32,19 @@ I would like to work for a company where I can continue to learn and contribute 
 Ordered chronologically from latest project.
 
 ## **Skills**
-### **Fast learning**  
+ ### ⚡️ **Fast learning**  
 Since I was studying in Italy up to now, I have changed so many jobs.  
 My first job in London was behind the bar, and I had to learn everything in two weeks. I had no prior experience preparing drinks, but I managed.  
 During my ten years exploring the world, I worked an average of six months in between travels. When I was in Vancouver, I got promoted to a supervisory role after only two months. I quickly understand processes and procedures in a company and apply them.   
 When I started volunteering at GenSpec, I barely knew what APIs meant. After the first meeting and researching all the techs we were about to use I was able to create my first Firebase function with TypeScript and test it successfully in few days (with Jest).  
 I have attended many free online courses before joining Makers to learn the fundamentals of coding languages.
-### **Problem solving/Critical thinking**  
+### 👩🏾‍🔧 **Problem solving/Critical thinking**  
 Tech is second nature to me. Since I was a kid I have always loved building, destroying and re-building. My inquisitive mind on how things work makes finding solutions easier.
 Family and friends often ask me for advices on how to fix or use their devices.  
 When I was working for Getir (startup) as a Team Leader, problems would come up non-stop and I had to solve issues constantly. Our store was one with the best KPIs in the company.  
 There were quite a few times during my time at Makers where I got a bit stuck (even during pairing), but I never gave up. The fact that something wasn't working as intended was a big challenge that I felt I had to solve. And I did 98% of the time only by researching.
 
-### **Communication and Teaching**  
+### 🗣 **Communication and Teaching**  
 In the ten years travelling, I have greatly improved my communication skills personally and professionally. It is a neverending journey.  
 I am a great listener and observer. Working in customer-focused jobs, I had to deal with so many people every day while staying calm.  
 In Getir, I had to manage a team of over 20 colleagues. Employees would call every day with new issues and requests. With active listening, empathy, and organisational skills, I was able to maintain a happy team.  
@@ -65,6 +65,8 @@ _16 week Software Development Bootcamp_
 **FREECODECAMP, CODECADEMY AND UDEMY (London, 2020-2021)**  
 _Various coding courses: Ruby, HTML5, CSS3, JS, React, Flutter and Dart._
 - learnt the basics of each language/framework.
+- Joined a community of self-learners on discord where we helped each other when stuck.
+- Attended workshops and a hackathon organised by Codecademy. 
 
 **LORENZO LOTTO INSTITUTE (Italy, 1999 - 2004)**  
 _Diploma in Tourism. 3 A-levels equivalent._  
@@ -99,4 +101,5 @@ _Technologies used: MS Excel, Windows, internal software._
 * Documentaries and videos on youtube.
 * Drawing: especially portraits.
 * Photography: especially when travelling, but even now I enjoy taking photos around London.
+* Coffee - I worked as a barista for quite some time in the past. I am very proud of my barista skills, and I particularly loved Latte Art. I watched many youtube videos to improve my skills and make many customers happy.
 * Play mobile games such as Game of Thrones Conquest that requires strategy and teamwork.
