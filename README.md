@@ -1,7 +1,7 @@
 # **Riky Moroni**  
 <a href='https://www.linkedin.com/in/rikymoroni/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'/></a> <a href='mailto:riky.moroni5@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail logo'/></a>
 
-A very determined Junior Developer just graduated from Makers Academy who enjoys learning constantly, attending workshops, and improving her programming skills. 
+A very determined Junior Software Developer just graduated from Makers Academy who enjoys learning constantly, attending workshops, and improving her programming skills. 
 
 I have always had a passion for Tech, but I never knew what path was right for me.
 After travelling for over ten years around the world, I decided to settle down in London, start thinking about changing career, and work towards this new goal.
@@ -42,7 +42,7 @@ I have attended many free online courses before joining Makers to learn the fund
 Tech is second nature to me. Since I was a kid I have always loved building, destroying and re-building. My inquisitive mind on how things work makes finding solutions easier.
 Family and friends often ask me for advices on how to fix or use their devices.  
 When I was working for Getir (startup) as a Team Leader, problems would come up non-stop and I had to solve issues constantly. Our store was one with the best KPIs in the company.  
-There were quite a few times during my time at Makers where I got a bit stuck (even during pairing), but I never gave up. The fact that something wasn't working as intended was a big challenge that I felt I had to solve. And I did 98% of the time only by researching.
+There were quite a few times during my time at Makers where I got a bit stuck (even during pairing), but I never gave up. The fact that something isnt' working as intended is a big challenge that I feel I have to solve. And I did 98% of the time only by researching.
 
 ### 🗣 **Communication and Teaching**  
 In the ten years travelling, I have greatly improved my communication skills personally and professionally. It is a neverending journey.  
@@ -54,17 +54,17 @@ I have trained many colleagues in previous roles or explained how things work to
 
 **MAKERS ACADEMY (London, Oct 21 - Feb 22)**  
 _16 week Software Development Bootcamp_
-- pair-programmed daily in order to solve weekly challenges.
+- Pair-programmed daily in order to solve weekly challenges.
 - TDD constantly in order to improve code quality. (Rspec, Jest)
-- followed effective debugging processes.
-- learnt to use other frameworks such as Rails.
-- reviewed someone's else code weekly and gave feedback.
-- utilised MVC pattern, databases, HTTP requests, APIs.
-- worked on 3 engineering group projects, requiring teamwork, research, planning and communication.
+- Followed effective debugging processes.
+- Learnt to use other frameworks such as Rails.
+- Reviewed someone's else code weekly and gave feedback.
+- Utilised MVC pattern, databases, HTTP requests, APIs.
+- Worked on 3 engineering group projects, requiring teamwork, research, planning and communication.
 
 **FREECODECAMP, CODECADEMY AND UDEMY (London, 2020-2021)**  
 _Various coding courses: Ruby, HTML5, CSS3, JS, React, Flutter and Dart._
-- learnt the basics of each language/framework.
+- Learnt the basics of each language/framework.
 - Joined a community of self-learners on discord where we helped each other when stuck.
 - Attended workshops and a hackathon organised by Codecademy. 
 
