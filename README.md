@@ -1,7 +1,7 @@
 # **Riky Moroni**  
 <a href='https://www.linkedin.com/in/rikymoroni/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'/></a> <a href='mailto:riky.moroni5@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail logo'/></a>
 
-A very determined Junior Software Developer just graduated from Makers Academy who enjoys learning constantly, attending workshops, and improving her programming skills. 
+A very determined Junior Software Developer from a hospitality and retail background recently graduated from Makers Academy who enjoys constant learning, attending workshops, and improving her programming skills. 
 
 I have always had a passion for Tech, but I never knew what path was right for me.
 After travelling for over ten years around the world, I decided to settle down in London, start thinking about changing career, and work towards this new goal.
@@ -12,7 +12,7 @@ In August 2021, I was offered the chance to volunteer for GenSpec for a side pro
 
 From November 2021 to February 2022, I attended Makers Academy, where I consolidated my knowledge of Ruby and JavaScript, learnt new frameworks, solidified best practices and processes used in Software Development, helped my teams succeed, and provided mentorship to some fellow students.
 
-I would like to work for a company where I can continue to learn and contribute to its success.
+I'm looking forward to working for an enthusiastic, diverse engineering team where I can learn from, provide solutions and contribute to its success. 
 
 ---
 ### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests)
@@ -42,7 +42,7 @@ I have attended many free online courses before joining Makers to learn the fund
 Tech is second nature to me. Since I was a kid I have always loved building, destroying and re-building. My inquisitive mind on how things work makes finding solutions easier.
 Family and friends often ask me for advices on how to fix or use their devices.  
 When I was working for Getir (startup) as a Team Leader, problems would come up non-stop and I had to solve issues constantly. Our store was one with the best KPIs in the company.  
-There were quite a few times during my time at Makers where I got a bit stuck (even during pairing), but I never gave up. The fact that something isnt' working as intended is a big challenge that I feel I have to solve. And I did 98% of the time only by researching.
+There were quite a few times during my time at Makers where I got a bit stuck (even during pairing), but I never gave up. The fact that something isn't working as intended is a big challenge that I feel the need to solve. And I did 98% of the time only by researching.
 
 ### 🗣 **Communication and Teaching**  
 In the ten years travelling, I have greatly improved my communication skills personally and professionally. It is a neverending journey.  
