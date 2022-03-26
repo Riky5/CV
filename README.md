@@ -22,7 +22,8 @@ I'm looking forward to working for an enthusiastic, diverse engineering team whe
 
 |Project name   |Description              |Technologies        |
 |---------------|-------------------------|--------------------|
-|[React Exercise](https://github.com/Riky5/react-exercise-1)|Mini exercise from Scrimba React course. Practicing working with React components|React & CSS
+|[My Travel Journal](https://github.com/Riky5/react-exercise-1)|Mini exercise from Scrimba React course. Practicing using props and transfering data.|React & CSS
+|[Business Card](https://github.com/Riky5/my-travel-journal)|Mini exercise from Scrimba React course. Practicing working with React components|React & CSS
 |[<img src="https://github.com/Riky5/wormz/blob/readme/public/images/WormsLogoText.png?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="120" height="30" /> Wormz](https://github.com/Riky5/wormz)|Final group project at Makers: a 2D web game based on the existing Worms game. Also deployed on heroku.|JavaScript, P5, Matter.js, Node.js, Express, HTML5, CSS3, Mocha, Chai
 |[<img src="https://github.com/Riky5/acebook-ruby-junkies/blob/main/app/assets/images/RubyJunkiesLogo.png?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="40" /> GemJunkies](https://github.com/Riky5/acebook-ruby-junkies)|Engineering group project II - Facebook clone with our own bubblegum design. Deployed on heroku.|Ruby, Rails, JavaScript, HTML5, SCSS, Bulma, PostgreSQL, Rspec
 |[Chitter Challenge](https://github.com/Riky5/chitter-challenge)|Twitter clone. Login and Sign up designs are as close as possible to the original Twitter.|Ruby, HTML5, CSS3, PostgreSQL, Sinatra, Rspec
