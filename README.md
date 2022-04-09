@@ -22,6 +22,7 @@ I'm looking forward to working for an enthusiastic, diverse engineering team whe
 
 |Project name   |Description              |Technologies        |
 |---------------|-------------------------|--------------------|
+|[Tenzies Game](https://github.com/Riky5/Tenzies-Game)|Another exercise from Scrimba React course. Practicing using some hooks such as useState and useEffect. Deployed on Netlify. |React & CSS
 |[My Travel Journal](https://github.com/Riky5/react-exercise-1)|Mini exercise from Scrimba React course. Practicing using props and transfering data.|React & CSS
 |[Business Card](https://github.com/Riky5/my-travel-journal)|Mini exercise from Scrimba React course. Practicing working with React components|React & CSS
 |[<img src="https://github.com/Riky5/wormz/blob/readme/public/images/WormsLogoText.png?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="120" height="30" /> Wormz](https://github.com/Riky5/wormz)|Final group project at Makers: a 2D web game based on the existing Worms game. Also deployed on heroku.|JavaScript, P5, Matter.js, Node.js, Express, HTML5, CSS3, Mocha, Chai
