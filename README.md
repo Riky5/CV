@@ -22,6 +22,7 @@ I'm looking forward to working for an enthusiastic, diverse engineering team whe
 
 |Project name   |Description              |Technologies        |
 |---------------|-------------------------|--------------------|
+|[Quizzical](https://github.com/Riky5/Quizzical)|Last solo project from Scrimba React course. Practicing everything learnt so far. Getting data from the Open Trivia Database API. |React & CSS
 |[Tenzies Game](https://github.com/Riky5/Tenzies-Game)|Another exercise from Scrimba React course. Practicing using some hooks such as useState and useEffect. Deployed on Netlify. |React & CSS
 |[My Travel Journal](https://github.com/Riky5/react-exercise-1)|Mini exercise from Scrimba React course. Practicing using props and transfering data.|React & CSS
 |[Business Card](https://github.com/Riky5/my-travel-journal)|Mini exercise from Scrimba React course. Practicing working with React components|React & CSS
